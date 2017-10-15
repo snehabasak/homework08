@@ -1,0 +1,47 @@
+
+
+
+ body {
+ 	background-image: url("http://idolza.com/a/f/b/brown-wallpaper-hd-backgrounds-and-texture-on-pinterest-free-download-times-orange-textured-background-pattern-charming-interior-house-textures-part-wall_wall-texture-patterns_what-do-certai.jpg");
+
+      font-family: 'Germania One', cursive;
+ }
+
+ .bio{
+   text-indent: 15em each-line;
+ 	background-color: rgba(188,143,143,0.7);
+ 	color:white;
+ 	 }
+
+ .col-9{
+ 	background-color:rgba(210,105,30,0.4);
+ 	color:white;
+ }
+ .bottom{
+ 	background-color:rgba(244,164,96,0.5);
+ }
+ .col1{
+ 	background-color:rgba(139,69,19,0.7);
+ }
+ .examples{
+ 	border: 2px solid brown;
+ }
+ .container1{
+ 	background-color:rgba(222,184,135,0.7);
+ }
+
+ .container{
+ 	background-color:rgba(51,0,0,0.7);
+ }
+ h3{
+   font-family: 'Lobster', cursive;
+ }
+th{
+   font-family: 'Lobster', cursive;
+}
+.firstbook{
+  text-indent:1em ;
+}
+.new{
+  text-indent: 15em each-line ;
+}
